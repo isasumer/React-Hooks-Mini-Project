@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-Hooks-Mini-Project/static/css/main.a64a8893.chunk.css",
+    "main.js": "/React-Hooks-Mini-Project/static/js/main.a0bef909.chunk.js",
+    "main.js.map": "/React-Hooks-Mini-Project/static/js/main.a0bef909.chunk.js.map",
+    "runtime-main.js": "/React-Hooks-Mini-Project/static/js/runtime-main.4b497158.js",
+    "runtime-main.js.map": "/React-Hooks-Mini-Project/static/js/runtime-main.4b497158.js.map",
+    "static/js/2.53ccd401.chunk.js": "/React-Hooks-Mini-Project/static/js/2.53ccd401.chunk.js",
+    "static/js/2.53ccd401.chunk.js.map": "/React-Hooks-Mini-Project/static/js/2.53ccd401.chunk.js.map",
+    "static/js/3.ebf5cec3.chunk.js": "/React-Hooks-Mini-Project/static/js/3.ebf5cec3.chunk.js",
+    "static/js/3.ebf5cec3.chunk.js.map": "/React-Hooks-Mini-Project/static/js/3.ebf5cec3.chunk.js.map",
+    "index.html": "/React-Hooks-Mini-Project/index.html",
+    "static/css/main.a64a8893.chunk.css.map": "/React-Hooks-Mini-Project/static/css/main.a64a8893.chunk.css.map",
+    "static/js/2.53ccd401.chunk.js.LICENSE.txt": "/React-Hooks-Mini-Project/static/js/2.53ccd401.chunk.js.LICENSE.txt",
+    "static/media/aws_logo.6d289f9a.png": "/React-Hooks-Mini-Project/static/media/aws_logo.6d289f9a.png",
+    "static/media/fs_logo.a3564b94.png": "/React-Hooks-Mini-Project/static/media/fs_logo.a3564b94.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b497158.js",
+    "static/js/2.53ccd401.chunk.js",
+    "static/css/main.a64a8893.chunk.css",
+    "static/js/main.a0bef909.chunk.js"
+  ]
+}
